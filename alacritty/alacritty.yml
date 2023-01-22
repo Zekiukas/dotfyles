@@ -1,0 +1,14 @@
+shell:
+    program: /usr/bin/zsh
+
+window:
+    opacity: 1.0
+
+font:
+    normal:
+        family: JetBrainsMono Nerd Font
+    italic:
+        family: JetBrainsMono Nerd Font
+    bold:
+        family: JetBrainsMono Nerd Font
+    
